@@ -1,0 +1,10 @@
+{
+  "name": "Mercs Simple",
+  "author": "Dr.Wayne Buckhanan (based on email template from Lee Munroe)",
+  "authorUrl": "https://github.com/WayneBuckhanan/mautic-responsive-template",
+  "features": [
+    "page",
+    "email",
+    "form"
+  ]
+}
